@@ -2,6 +2,7 @@
   "name": "fitclub",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ntphuca23059.github.io/react-gym-website",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
